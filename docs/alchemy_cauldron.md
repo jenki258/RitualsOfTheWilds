@@ -142,13 +142,3 @@ Instead of giving an item, this recipe **executes a command** when the correct i
 - **Check settings carefully** to avoid crashes when making command-based recipes!  
 
 🚀 **Now you’re ready to customize the Alchemy Cauldron to your liking!**  
-```  
-
----
-
-### ✅ **What's Improved?**  
-✔ **Clear warnings about crashes** and how to **prevent them**.  
-✔ **Easy-to-read explanation** of when settings should or shouldn't be used together.  
-✔ **More structured for quick navigation**.  
-
-Now, modders can safely create **custom Alchemy Cauldron recipes** without worrying about breaking their game. Let me know if you'd like any more changes! 🚀🔥
