@@ -22,6 +22,7 @@ Make sure that when `"Execute Command Insted of Giving Item"` is set to `true`, 
 - If **giving an item**, set:  
   ```json
   "Execute Command Insted of Giving Item": false,
+  "Fixed or Random Amount": false,
   "Result item ID": "minecraft:golden_apple",
   "Min/Fixed result item give count": 1,
   "Max result item give count": 2
@@ -30,6 +31,8 @@ Make sure that when `"Execute Command Insted of Giving Item"` is set to `true`, 
   ```json
   "Execute Command Insted of Giving Item": true,
   "Result Command": "execute at @p run say Hello!",
+  "Fixed or Random Execution": false,
+  "Execute as player": false,
   "Min/Fixed result execution count": 1,
   "Max result execution count": 2
   ```
