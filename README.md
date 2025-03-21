@@ -10,7 +10,7 @@ If you want to customize the mod, check out the relevant files listed below.
 Each feature has its own configuration file. Open the corresponding file to learn how to modify that aspect of the mod.
 
 ### 🔹 How to Change Materials Puttable in Interactive Crafting Blocks or Jars?
-- **File:** `[docs/interactive_crafting.md](docs/interactive_crafting.md)`
+- **File:** [docs/interactive_crafting.md](docs/interactive_crafting.md)
 - **Description:** Explains how to modify the list of allowed materials for crafting blocks and jars.
 
 ### 🧪 How to Make Custom Recipes?
