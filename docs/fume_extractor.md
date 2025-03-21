@@ -20,7 +20,7 @@ To create a **Fume Extractor recipe** for the `Rituals_of_the_Wilds` mod, follow
   "Extracting time(In ticks)": 120
 }
 ```
-or you can use this [template](../config/Rituals_of_the_wilds/distilation_flask/1fumeextractorrecipe.json)
+or you can use this [template](../config/Rituals_of_the_wilds/fume_extractor/1fumeextractorrecipe.json)
 
 ---
 
