@@ -58,5 +58,5 @@
   "Min/Fixed result command execution count": 1,
   "Max command execution count": 1,
   "Result command": "function rituals_of_the_wilds:villager_work_up",
-  "Info about result": "All villagers in 6 blocks radius will max out their xp"
+  "Info about result": "All villagers in 12 blocks radius will max out their xp"
 }
