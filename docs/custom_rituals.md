@@ -51,6 +51,13 @@
    - Save ritual with the filename `19ritual.json`.
    - Carefully copy and paste the full structure into your `19ritual.json` file, ensuring no keys or values are missed or altered.
 
+### Editing existing rituals
+   In `config/Rituals_of_the_wilds.toml`, set the following:
+   ```toml
+   Regenerate Rituals = false
+   ```
+Then you can edit rituals and don't be afraid that they will regenerate after rejoining world
+
 ### Troubleshooting:
 - **Missing or Incorrect Keys**: If you delete a required field or change a key, the game may crash. Always cross-check with the template.
 - **Consistency**: Make sure that block IDs and item IDs are correctly referenced and match their in-game counterparts.
