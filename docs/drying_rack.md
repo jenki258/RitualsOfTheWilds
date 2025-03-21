@@ -3,6 +3,8 @@
 1. **Create the Recipe File**:
    - Navigate to the folder: `config/Rituals_of_the_wilds/drying_rack/`.
    - Create a new JSON file named `15dryingrecipe.json`.
+        - The number **must be 500 or lower**.  
+        - The number **must be the next available number** (e.g., if the highest number is `15dryingrecipe.json`, name your file `16dryingrecipe.json`).  
 
 2. **File Structure**:
    The contents of the `15dryingrecipe.json` file should look like this:
