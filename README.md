@@ -10,46 +10,26 @@ If you want to customize the mod, check out the relevant files listed below.
 Each feature has its own configuration file. Open the corresponding file to learn how to modify that aspect of the mod.
 
 ### 🔹 How to Change Materials Puttable in Interactive Crafting Blocks or Jars?
-- **File:** [docs/interactive_crafting.md](docs/interactive_crafting.md)
-- **Description:** Explains how to modify the list of allowed materials for crafting blocks and jars.
+➡️ **[Interactive Crafting Guide](docs/interactive_crafting.md)**
 
 ### 🧪 How to Make Custom Recipes?
 
 You can add custom recipes for various crafting stations. Check the file linked to each feature.
 
-#### 🔹 Alchemy Cauldron
-- **File:** `docs/alchemy_cauldron.md`
-- **Description:** Guide to defining new potion recipes using the Alchemy Cauldron.
+### 🧪 How to Make Custom Recipes?
 
-#### 🔹 Catalyst Grinder
-- **File:** `docs/catalyst_grinder.md`
-- **Description:** Explains how to create new grinding recipes for the Catalyst Grinder.
-
-#### 🔹 Distillation Flask
-- **File:** `docs/distillation_flask.md`
-- **Description:** Covers how to set up new distillation recipes.
-
-#### 🔹 Drying Rack
-- **File:** `docs/drying_rack.md`
-- **Description:** Instructions on adding new drying recipes.
-
-#### 🔹 Fume Extractor
-- **File:** `docs/fume_extractor.md`
-- **Description:** Explains how to configure fume extraction recipes.
-
-#### 🔹 Mortar and Pestle
-- **File:** `docs/mortar_pestle.md`
-- **Description:** Guide to adding custom grinding recipes.
-
-#### 🔹 Rune Scribing Table
-- **File:** `docs/rune_scribing.md`
-- **Description:** How to define new rune inscriptions.
+- **[Alchemy Cauldron](docs/alchemy_cauldron.md)**
+- **[Catalyst Grinder](docs/catalyst_grinder.md)**
+- **[Distillation Flask](docs/distillation_flask.md)**
+- **[Drying Rack](docs/drying_rack.md)**
+- **[Fume Extractor](docs/fume_extractor.md)**
+- **[Mortar and Pestle](docs/mortar_pestle.md)**
+- **[Rune Scribing Table](docs/rune_scribing.md)**
 
 ---
 
 ### 🔮 How to Make Custom Rituals?
-- **File:** `docs/custom_rituals.md`
-- **Description:** Instructions for creating new rituals, specifying ingredients, and defining effects.
+➡️ **[Custom Rituals Guide](docs/custom_rituals.md)**
 
 ---
 
