@@ -15,7 +15,7 @@
   "Drying Result Item ID": "rituals_of_the_wilds:dried_blood_fern"
 }
 ```
-or you can use this [template](../config/Rituals_of_the_wilds/Drying_Rack/1distilationflaskrecipe.json)
+or you can use this [template](../config/Rituals_of_the_wilds/Drying_Rack/1dryingrecipe.json)
 
 ---
 
