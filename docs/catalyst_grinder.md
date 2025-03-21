@@ -18,7 +18,7 @@ To create and configure a new Catalyst Grinder recipe, follow these steps:
   "Clicks Needed": 5
 }
 ```
-or you can use this template
+or you can use this [template](../config/Rituals_of_the_wilds/catalyst_grinder/1catalystgrinderrecipe.json)
 
 ---
 
