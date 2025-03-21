@@ -39,6 +39,10 @@ Make sure that when `"Execute Command Insted of Giving Item"` is set to `true`, 
 
 ---
 
+## !!**Also when you are adding new item ingredient to the recipes and it's not in ingredient's for cauldron just add it in there and make them unregeneratable here how to do it **[Interactive Crafting Guide](docs/interactive_crafting.md)**.**!!
+
+---
+
 ## 📂 Editing Existing Recipes  
 
 By default, all recipes are stored in:  
