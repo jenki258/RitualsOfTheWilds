@@ -20,6 +20,12 @@ To create and configure a new Catalyst Grinder recipe, follow these steps:
 ```
 or you can use this template
 
+---
+
+## !!**Also when you are adding new item ingredient to the recipes and it's not in ingredient's for catalyst grinder just add it in there and make them unregeneratable here how to do it **[Interactive Crafting Guide](docs/interactive_crafting.md)**.**!!
+
+---
+
 ### Description of Fields:
 - `"Needed Item ID or Tag"` → This specifies the **item or tag** that you need to provide to the Catalyst Grinder to begin the process (e.g., `minecraft:ender_pearl`).
 - `"Result Item ID"` → This defines the **resulting item** from the Catalyst Grinder (e.g., `rituals_of_the_wilds:ender_catalyst`).
