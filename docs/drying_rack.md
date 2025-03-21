@@ -1,7 +1,7 @@
 ### File Creation Instructions for Drying Rack Recipe
 
 1. **Create the Recipe File**:
-   - Navigate to the folder: `config/Rituals_of_the_wilds/drying_rack/`.
+   - Navigate to the folder: `config/Rituals_of_the_wilds/Drying_Rack/`.
    - Create a new JSON file named `15dryingrecipe.json`.
         - The number **must be 500 or lower**.  
         - The number **must be the next available number** (e.g., if the highest number is `15dryingrecipe.json`, name your file `16dryingrecipe.json`).  
@@ -15,6 +15,7 @@
   "Drying Result Item ID": "rituals_of_the_wilds:dried_blood_fern"
 }
 ```
+or you can use this [template](../config/Rituals_of_the_wilds/Drying_Rack/1distilationflaskrecipe.json)
 
 ---
 
@@ -47,7 +48,7 @@
 
 ### Example Process for Recipe Setup:
 
-1. **Locate the Folder**: `config/Rituals_of_the_wilds/drying_rack/`
+1. **Locate the Folder**: `config/Rituals_of_the_wilds/Drying_Rack/`
 2. **Create the File**: `15dryingrecipe.json`
 3. **Paste Recipe Structure**:
    ```json
