@@ -72,7 +72,7 @@ To add a new Alchemy Cauldron recipe:
 
 An **Item-Giving Recipe** will return an item when the correct ingredients are used.  
 
-### 📝 Example
+### 📝 Example [Item-Giving Recipe](config/Rituals_of_the_wilds/Alchemy_Cauldron/1alchemyrecipe.json)
 
 ---
 
@@ -80,7 +80,7 @@ An **Item-Giving Recipe** will return an item when the correct ingredients are u
 
 Instead of giving an item, this recipe **executes a command** when the correct ingredients are used.  
 
-### 📝 Example 
+### 📝 Example [Command-Execution Recipe](config/Rituals_of_the_wilds/Alchemy_Cauldron/2alchemyrecipe.json)
 
 ---
 
