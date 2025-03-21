@@ -36,20 +36,20 @@ You can add custom recipes for various crafting stations. Check the file linked 
 ## ❓ Quick Q&A
 
 ### ❔ Where do I change the materials for interactive crafting?
-Check `docs/interactive_crafting.md` for instructions.
+Check **[Interactive Crafting Guide](docs/interactive_crafting.md)** for instructions.
 
-### ❔ How do I add my own potions?
-Modify the Alchemy Cauldron recipes using `docs/alchemy_cauldron.md`.
+### ❔ What can i put in jar's
+You can put almost any food and material here(But not blocks or equipment) if you want to edit this just go to the **[Interactive Crafting Guide](docs/interactive_crafting.md)**.
 
-### ❔ How do I define new rituals?
-Open `docs/custom_rituals.md` to learn how to create custom rituals.
+### ❔ How do I make new rituals?
+Open **[Custom Rituals Guide](docs/custom_rituals.md)** to learn how to create custom rituals.
 
 ### ❔ Can I add new drying recipes?
-Yes! Instructions are in `docs/drying_rack.md`.
+Yes! Instructions are in **[Drying Rack](docs/drying_rack.md)**.
 
 ### ❔ Where do I report bugs or suggest features?
-Open an issue in this GitHub repository.
+Go to [JenkiMods](https://discord.gg/bJWbUsWAWk) discord server.
 
 ---
 
-🚀 **Happy Modding!** If you need more help, check the documentation files or write in discord to get help.
+🚀 **Happy Modding!** If you need more help, check the documentation files or write in [Jenki Mods discord](https://discord.gg/bJWbUsWAWk) to get help.
