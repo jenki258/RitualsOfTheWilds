@@ -31,7 +31,7 @@ To stop this, you need to **disable the auto-regeneration settings** in the `con
    - `"Regenerate Items that you can put in jars"`  
 3. Change both values to `false`:  
 
-No restart is required! These settings apply immediately while the game is running.
+No restart is required! These settings apply immediately while the game is running.(Only saving of file needed)
 
 ```toml
 "Auto Regenerate Ingredients possible to put in some blocks" = false
