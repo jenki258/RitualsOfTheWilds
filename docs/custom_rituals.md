@@ -15,6 +15,7 @@
      - `Sacrifices needed`: The number of sacrifices required.
      - `Entity Near needed`: Boolean flag indicating if there must be a certain entity nearby.
      - `Ritual Difficulty Level`: The difficulty of the ritual (ranges from 0 to 3).
+     - `Info about result`: It will be item that will description with what writen here(Only for command rituals).
 
 3. **File Structure Example (Ritual Type and Difficulty Levels):**
    You have both **Item Rituals** and **Command Rituals**, each having their own file structure.
