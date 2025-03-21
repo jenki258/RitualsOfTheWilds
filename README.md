@@ -70,12 +70,6 @@ Just have filled ink bottle in off hand and quill in main and right click.
 ### ❔ How do i need to finish alchemy recipe, ritual
 Just click on alchemy cauldron or central block of ritual with amethyst powder!
 
-### ❔ How do I make new rituals?
-Open **[Custom Rituals Guide](docs/custom_rituals.md)** to learn how to create custom rituals.
-
-### ❔ Can I add new drying recipes?
-Yes! Instructions are in **[Drying Rack](docs/drying_rack.md)**.
-
 ### ❔ Where do I report bugs or suggest features?
 Go to [JenkiMods](https://discord.gg/bJWbUsWAWk) discord server.
 
