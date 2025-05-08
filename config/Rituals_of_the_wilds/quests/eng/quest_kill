@@ -1,0 +1,20 @@
+{
+  "Quest name": "Ender Kill",
+  "Text Line": "Kill 10 ender man",
+  "Quest After Finishing Text": "",
+  "Quest Finishing Sound": "",
+  "Quest Type": 3,
+  "Kill Target Entity ID or Tag": "minecraft:enderman",
+  "Kill count": 10,
+  "Quest Reward Item ID": "",
+  "Quest Reward Min Give Amount": 1,
+  "Quest Reward Max Give Amount": 1,
+  "Quest Reward Command": "",
+  "Quest Reward Command Execution Type": 0,
+  "Quest Reward Min Command Execution": 1,
+  "Quest Reward Max Command Execution": 1,
+  "Quest Reputation Reward": 0,
+  "Quest Reputation Source": 0,
+  "Next Quest ID": "",
+  "Next Quest Giver": 0
+}
