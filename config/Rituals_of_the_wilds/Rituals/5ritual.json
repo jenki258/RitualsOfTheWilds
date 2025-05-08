@@ -1,5 +1,7 @@
 {
   "Ritual Name": "Block Type Ritual: Light Area",
+  "May Spawn In Ritual Scroll": true,
+  "Must Read Scroll First": true,
   "Central Block ID or Tag": "rituals_of_the_wilds:moonlight_yr",
   "Offhand Item ID or Tag": "minecraft:torch",
   "Ritual Type": 2,
