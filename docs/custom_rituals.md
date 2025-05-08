@@ -1,7 +1,7 @@
 ### File Creation Instructions for Rituals
 
 1. **Create the Recipe File**:
-   - Go to `config/Rituals_of_the_wilds/Rituals/eng`.
+   - Go to `config/Rituals_of_the_wilds/Rituals/eng/`.
    - Create a new JSON file named `19ritual.json` (or increment the number if you already have other recipes in that folder).
         - The number **must be 500 or lower**.  
         - The number **must be the next available number** (e.g., if the highest number is `1ritual.json`, name your file `2ritual.json`).  
