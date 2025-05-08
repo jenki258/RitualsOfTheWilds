@@ -2,6 +2,11 @@
 
 This document describes how to configure **Quest JSON files** for the *Rituals of the Wilds* mod. Quests are used to create task-based progression, including item delivery, entity interactions, and combat challenges.
 
+In `config/Rituals_of_the_wilds.toml`, set the following:
+   ```toml
+   Regenerate Quests = false
+   ```
+
 ---
 
 ## 📁 File Location
