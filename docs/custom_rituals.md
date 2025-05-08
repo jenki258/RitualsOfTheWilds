@@ -2,7 +2,7 @@
 
 1. **Create the Recipe File**:
    - Go to `config/Rituals_of_the_wilds/Rituals/eng/`.
-   - Create a new JSON file named `19ritual.json` (or increment the number if you already have other recipes in that folder).
+   - Create a new JSON file named `29ritual.json` (or increment the number if you already have other recipes in that folder).
         - The number **must be 500 or lower**.  
         - The number **must be the next available number** (e.g., if the highest number is `1ritual.json`, name your file `2ritual.json`).  
 
@@ -48,8 +48,8 @@
    - **Result Item or Command**: Defines what the ritual produces (either an item or a command).
 
 5. **Naming and Saving Ritual Files:**
-   - Save ritual with the filename `19ritual.json`.
-   - Carefully copy and paste the full structure into your `19ritual.json` file, ensuring no keys or values are missed or altered.
+   - Save ritual with the filename `29ritual.json`.
+   - Carefully copy and paste the full structure into your `29ritual.json` file, ensuring no keys or values are missed or altered.
 
 ### Editing existing rituals
    In `config/Rituals_of_the_wilds.toml`, set the following:
