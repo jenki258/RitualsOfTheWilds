@@ -33,6 +33,12 @@ You can add custom recipes for various crafting stations. Check the file linked 
 
 ---
 
+### 💬 How to Add Custom Dialogues and Quests?
+➡️ **[Dialogues Guide](docs/dialogues.md)**
+➡️ **[Quests Guide](docs/quests.md)**
+
+---
+
 ## ❓ Quick Q&A
 
 ### ❔ Where do I change the materials for interactive crafting?
