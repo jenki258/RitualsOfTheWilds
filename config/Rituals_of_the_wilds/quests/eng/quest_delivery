@@ -1,0 +1,21 @@
+{
+  "Quest name": "Special Delivery",
+  "Text Line": "Give any cow 1 wheat",
+  "Quest After Finishing Text": "",
+  "Quest Finishing Sound": "",
+  "Quest Type": 2,
+  "Delivery Target Entity ID or Tag": "minecraft:cow",
+  "Quest Item ID or Tag": "minecraft:wheat",
+  "Quest Item Count": 1,
+  "Quest Reward Item ID": "rituals_of_the_wilds:honey_stones",
+  "Quest Reward Min Give Amount": 1,
+  "Quest Reward Max Give Amount": 2,
+  "Quest Reward Command": "",
+  "Quest Reward Command Execution Type": 0,
+  "Quest Reward Min Command Execution": 1,
+  "Quest Reward Max Command Execution": 1,
+  "Quest Reputation Reward": 0,
+  "Quest Reputation Source": 0,
+  "Next Quest ID": "",
+  "Next Quest Giver": 0
+}
