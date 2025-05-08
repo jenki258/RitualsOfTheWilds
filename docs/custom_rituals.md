@@ -10,6 +10,8 @@
    - There are four levels for each ritual (1 to 4), and each level follows the same general structure but with slight modifications for complexity.
    - The ritual file will include the following key elements:
      - `Ritual Name`: A descriptive title of the ritual (shown in the scroll description).
+     - `May Spawn In Ritual Scroll`: Can spawn naturally in ritual scrolls
+     - `Must Read Scroll First`: Needs ritual scroll to be readed first to make it executable
      - `Ritual Type`: Defines the ritual as either a "Recipe" or "Command". **(DON'T CHANGE IT!)**
      - `Moon Stage Needed`: Boolean flag indicating if a specific moon phase is required.
      - `Sacrifices needed`: The number of sacrifices required.
