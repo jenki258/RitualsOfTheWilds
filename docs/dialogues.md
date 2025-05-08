@@ -128,7 +128,7 @@ Each answer contains the following properties:
   "Normal Reputation": 0,
   "Good Reputation": 0,
   "High Reputation": 0,
-  "Text Line": ",
+  "Text Line": "",
   "First Answer Text Line": "》Hi",
   "First Answer Quest Requirement": "",
   "First Answer Quest Requirement State": 1,
@@ -169,6 +169,7 @@ Each answer contains the following properties:
 ## ❗ Notes
 
 * Commands must be valid for/in Minecraft.
+* BE AWARE DO NOT DELETE ANY PARAMETER EVEN IF IT'S EMPTY! (It will just crash the game)
 * All dialogue transitions must refer to valid, existing dialogue files.
 * Use dialogue IDs consistently to avoid logic errors in branching.
 
