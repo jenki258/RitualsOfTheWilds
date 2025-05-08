@@ -99,30 +99,11 @@ Kill a number of specific entities to complete the quest.
 
 ---
 
-## 🧪 Example Full Quest File (Give Item)
+## 🧪 Example Full Quest Files
 
-```json
-{
-  "Quest name": "Apple head",
-  "Text Line": "Bring me apple",
-  "Quest After Finishing Text": "",
-  "Quest Finishing Sound": "",
-  "Quest Type": 1,
-  "Quest Item ID or Tag": "minecraft:apple",
-  "Quest Item Count": 1,
-  "Quest Reward Item ID": "",
-  "Quest Reward Min Give Amount": 1,
-  "Quest Reward Max Give Amount": 1,
-  "Quest Reward Command": "",
-  "Quest Reward Command Execution Type": 0,
-  "Quest Reward Min Command Execution": 1,
-  "Quest Reward Max Command Execution": 1,
-  "Quest Reputation Reward": 0,
-  "Quest Reputation Source": 0,
-  "Next Quest ID": "",
-  "Next Quest Giver": 0
-}
-```
+[Type 1](../config/Rituals_of_the_wilds/quests/eng/quest_give)
+[Type 2](../config/Rituals_of_the_wilds/quests/eng/quest_delivery)
+[Type 3](../config/Rituals_of_the_wilds/quests/eng/quest_kill)
 
 ---
 
