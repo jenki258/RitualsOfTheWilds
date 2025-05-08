@@ -46,7 +46,7 @@ Make sure that when `"Execute Command Insted of Giving Item"` is set to `true`, 
 ## 📂 Editing Existing Recipes  
 
 By default, all recipes are stored in:  
-📁 `config/Rituals_of_the_wilds/Alchemy_Cauldron/`  
+📁 `config/Rituals_of_the_wilds/Alchemy_Cauldron/eng/`  
 
 ### ⚠️ Preventing Recipe Reset  
 If you modify an existing recipe but don't want it to reset back to default, you must **disable auto-regeneration** in the main config file:  
@@ -68,7 +68,7 @@ If you modify an existing recipe but don't want it to reset back to default, you
 
 To add a new Alchemy Cauldron recipe:  
 
-1. Go to **`config/Rituals_of_the_wilds/Alchemy_Cauldron/`**  
+1. Go to **`config/Rituals_of_the_wilds/Alchemy_Cauldron/eng/`**  
 2. Create a new file with a **numbered filename** (e.g., `4alchemyrecipe.json`).  
    - The number **must be 500 or lower**.  
    - The number **must be the next available number** (e.g., if the highest number is `3alchemyrecipe.json`, name your file `4alchemyrecipe.json`).  
@@ -139,7 +139,7 @@ Instead of giving an item, this recipe **executes a command** when the correct i
 
 ## ✅ Summary  
 
-- **To modify an existing recipe**, edit the JSON files inside `config/Rituals_of_the_wilds/Alchemy_Cauldron/`.  
+- **To modify an existing recipe**, edit the JSON files inside `config/Rituals_of_the_wilds/Alchemy_Cauldron/eng/`.  
 - **To prevent recipe resets**, turn off `"Auto Regenerate Alchemy Cauldron recipes"` in the `toml` config file.  
 - **To add a new recipe**, create a new numbered JSON file (`Xalchemyrecipe.json`).  
 - **Choose between giving an item or executing a command** by setting `"Execute Command Insted of Giving Item"` to `true` or `false`.  
