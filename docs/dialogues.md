@@ -2,6 +2,11 @@
 
 This document explains the structure and usage of dialogue JSON files used by the **Rituals of the Wilds** mod. These files define interactions between players and entities (like NPCs), including branching dialogues, quests, and in-game commands.
 
+In `config/Rituals_of_the_wilds.toml`, set the following:
+   ```toml
+   Regenerate Dialogues = false
+   ```
+
 ---
 
 ## 📁 File Naming Convention and placement where
