@@ -1,5 +1,7 @@
 {
   "Ritual Name": "Recipe Type Ritual: Moonlight Ink Bottle",
+  "May Spawn In Ritual Scroll": true,
+  "Must Read Scroll First": true,
   "Central Block ID or Tag": "minecraft:torch",
   "Offhand Item ID or Tag": "rituals_of_the_wilds:empty_ink_bottle",
   "Ritual Type": 1,
