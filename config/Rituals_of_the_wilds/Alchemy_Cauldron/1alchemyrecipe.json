@@ -1,4 +1,6 @@
 {
+  "May Spawn In Alchemy Scroll": true,
+  "Must Read Scroll First": false,
   "Moon Stage Needed": false,
   "Moon Stage": 0,
   "Runes on cauldron needed": false,
