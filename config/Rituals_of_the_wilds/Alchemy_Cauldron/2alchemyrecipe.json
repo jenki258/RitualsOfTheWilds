@@ -52,7 +52,6 @@
   "Ingredient ID or Tag 9": "",
   "Ingredient ID or Tag 10": "",
   "Execute Command Insted of Giving Item": true,
-  "Fixed or Random Execution": false,
   "Execute as player": false,
   "Result Command": "execute as @e[type\u003dminecraft:pig,distance\u003d..3] at @s run summon minecraft:lightning_bolt ~ ~ ~",
   "Min/Fixed result execution count": 1,
