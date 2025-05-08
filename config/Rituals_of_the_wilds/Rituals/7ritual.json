@@ -1,5 +1,7 @@
 {
   "Ritual Name": "Item Type Ritual: Mending",
+  "May Spawn In Ritual Scroll": true,
+  "Must Read Scroll First": true,
   "Central Block ID or Tag": "minecraft:emerald_block",
   "Offhand Item ID or Tag": "rituals_of_the_wilds:void_ash",
   "Ritual Type": 2,
