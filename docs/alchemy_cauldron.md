@@ -95,6 +95,10 @@ Instead of giving an item, this recipe **executes a command** when the correct i
 
 ---
 
+- **`"May Spawn In Alchemy Scroll": true`** → **Can spawn naturally in alchemy scrolls. If `false` will only be able to be given by command**
+
+- **`"Must Read Scroll First": true`** → **Needs alchemy scroll readed first to be executable. If `false` will be executable even if you first logged to server or world**
+
 - **`"Moon Stage Needed": false`** → **Whether a specific moon stage is required** for the ritual. If `true`, the ritual only works on certain moon phases.
   
 - **`"Moon Stage": 0`** → **Specifies which moon phase is required** (0 represents the full moon, following the exact Minecraft moon phases without the +1 offset).
