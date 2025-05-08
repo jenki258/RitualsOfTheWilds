@@ -52,7 +52,6 @@
   "Ingredient ID or Tag 9": "",
   "Ingredient ID or Tag 10": "",
   "Execute Command Insted of Giving Item": false,
-  "Fixed or Random Amount": false,
   "Result item ID": "rituals_of_the_wilds:inscribing_quill",
   "Min/Fixed result item give count": 1,
   "Max result item give count": 2
