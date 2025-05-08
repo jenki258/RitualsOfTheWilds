@@ -3,6 +3,50 @@
 Welcome to **Rituals Of The Wilds**, a mod that expands magical crafting, alchemy, and rituals.  
 If you want to customize the mod, check out the relevant files listed below.
 
+# 🌐 Language Settings - Rituals Of The Wilds
+
+You can customize the language used for **rituals**, **alchemy**, **dialogues**, and **quests** by using the following command in-game:
+
+```mcfunction
+/rituals_of_the_wilds:language_set <language>
+````
+
+## 📘 Default Language
+
+* To set the language to **English**, use:
+
+  ```
+  /rituals_of_the_wilds:language_set eng
+  ```
+
+## ✏️ Custom Languages
+
+* You can create your own custom language folder.
+* Example:
+
+  ```
+  /rituals_of_the_wilds:language_set custom
+  ```
+* This will load data from:
+
+  ```
+  /config/Rituals_of_the_wilds/<feature_type>/custom/
+  ```
+
+  Instead of the default:
+
+  ```
+  /config/Rituals_of_the_wilds/<feature_type>/eng/
+  ```
+
+## ℹ️ Fallback Behavior
+
+If a translation or content file doesn't exist in your selected language folder, the mod will automatically fall back to the **English** version as the default.
+
+---
+
+🛠️ This allows you to fully localize or theme your mod’s content per player, player base, or style preference!
+
 ---
 
 ## 📖 Customization Guide
