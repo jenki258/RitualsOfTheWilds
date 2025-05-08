@@ -3,6 +3,8 @@
 Welcome to **Rituals Of The Wilds**, a mod that expands magical crafting, alchemy, and rituals.  
 If you want to customize the mod, check out the relevant files listed below.
 
+➡️ **[Debug Commands](docs/commands.md)**
+
 # 🌐 Language Settings - Rituals Of The Wilds
 
 You can customize the language used for **rituals**, **alchemy**, **dialogues**, and **quests** by using the following command in-game:
