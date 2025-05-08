@@ -1,5 +1,7 @@
 {
   "Ritual Name": "Entity Type Ritual: Villager XP",
+  "May Spawn In Ritual Scroll": true,
+  "Must Read Scroll First": true,
   "Central Block ID or Tag": "rituals_of_the_wilds:green_candle_glass_jar",
   "Offhand Item ID or Tag": "minecraft:emerald",
   "Ritual Type": 2,
