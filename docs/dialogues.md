@@ -4,7 +4,9 @@ This document explains the structure and usage of dialogue JSON files used by th
 
 ---
 
-## 📁 File Naming Convention
+## 📁 File Naming Convention and placement where
+
+Dialogue file needs to be placed in `/config/Rituals_of_the_wilds/dialogues/eng/`
 
 Each dialogue file should follow this format:
 
