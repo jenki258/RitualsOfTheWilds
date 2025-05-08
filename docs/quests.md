@@ -102,7 +102,9 @@ Kill a number of specific entities to complete the quest.
 ## 🧪 Example Full Quest Files
 
 [Type 1](../config/Rituals_of_the_wilds/quests/eng/quest_give)
+
 [Type 2](../config/Rituals_of_the_wilds/quests/eng/quest_delivery)
+
 [Type 3](../config/Rituals_of_the_wilds/quests/eng/quest_kill)
 
 ---
