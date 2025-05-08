@@ -45,10 +45,6 @@ If a translation or content file doesn't exist in your selected language folder,
 
 ---
 
-🛠️ This allows you to fully localize or theme your mod’s content per player, player base, or style preference!
-
----
-
 ## 📖 Customization Guide
 
 Each feature has its own configuration file. Open the corresponding file to learn how to modify that aspect of the mod.
